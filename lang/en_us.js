@@ -1,0 +1,23 @@
+translates.en_us = {
+    "language": "English",
+    "3star": "3 star pass",
+    "challenge": "Challenge Mode",
+    "oper.10": "Allows only incorporated into the 10 operatives",
+    "oper.8": "Allows only incorporated into the 8 operatives",
+    "oper.6": "Allows only incorporated into the 6 operatives",
+    "oper.4": "Allows only incorporated into the 4 operatives",
+    "oper.3": "Allows only incorporated into the 3 operatives",
+    "no.medic": "No medic operatives",
+    "no.supporter": "No supporter",
+    "no.specialist": "No specialist",
+    "no.defender": "No defender",
+    "no.vanguard": "No vanguard",
+    "no.guard": "No guard",
+    "no.sniper": "No sinper",
+    "no.caster": "No caster",
+    "no.ground": "Do not allow peratives to be placed on the ground",
+    "no.hill": "Do not allow peratives to be placed on the hill",
+    "speed.2x": "Not allow to use 2x",
+    "no.pausing": "No pausing.",
+    "doc.title": "Arknights Difficulty Generator | Contingency Contract"
+};

@@ -1,0 +1,23 @@
+translates.zh_cn = {
+    "language": "简体中文",
+    "3star": "3星通关",
+    "challenge": "突袭",
+    "oper.10": "只允许编入10个干员",
+    "oper.8": "只允许编入8个干员",
+    "oper.6": "只允许编入6个干员",
+    "oper.4": "只允许编入4个干员",
+    "oper.3": "只允许编入3个干员",
+    "no.medic": "没有医疗",
+    "no.supporter": "没有辅助",
+    "no.specialist": "没有特种",
+    "no.defender": "没有重装",
+    "no.vanguard": "没有先锋",
+    "no.guard": "没有近卫",
+    "no.sniper": "没有狙击",
+    "no.caster": "没有术士",
+    "no.ground": "地面禁止",
+    "no.hill": "高台禁止",
+    "speed.2x": "禁用两倍速",
+    "no.pausing": "不能暂停",
+    "doc.title": "明日方舟危机合约后遗症生成器 | 危机合约"
+};

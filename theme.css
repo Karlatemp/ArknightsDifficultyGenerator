@@ -1,0 +1,39 @@
+.acc-lv{
+    color: #00ccd3;
+}
+.acc-lv::before{
+    content: "Lv: ";
+}
+.acc-lv::after{
+    content: " ";
+}
+.acc-limit[selected]{
+    background:#7d386baa;
+}
+.acc-limit:hover{
+    background:#f38dd8aa;
+}
+.acc-limit{
+    cursor: pointer;
+    background: #00000000;
+    border: red 1px solid;
+    border-radius: 10px;
+    padding: 15px;
+    transition: background 1s;
+    margin-bottom: 5px;
+}
+.acc-limit[disable]{
+    background-color: #000000ce;
+    cursor: not-allowed;
+}
+#limit-view{
+    white-space: pre;
+}
+.lang-button:hover{
+    background-color: #75af94EE;
+}
+.lang-button{
+    background-color: #00000000;
+    transition: background 1s;
+    cursor: pointer;
+}
